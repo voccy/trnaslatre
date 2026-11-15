@@ -1,0 +1,14 @@
+[
+  {"id":"T01","language":"ms","source":"Barang ini percuma.","context":"A shop sign in Malaysia","reference":"This item is free of charge.","category":"false friend","reviewed":false},
+  {"id":"T02","language":"id","source":"Usahamu percuma.","context":"An Indonesian speaker responding to an unsuccessful effort","reference":"Your efforts are in vain.","category":"false friend","reviewed":false},
+  {"id":"T03","language":"ms","source":"Kereta saya rosak.","context":"A Malaysian describing a vehicle problem","reference":"My car is broken.","category":"false friend","reviewed":false},
+  {"id":"T04","language":"id","source":"Kereta itu terlambat.","context":"An Indonesian at a train station","reference":"The train is late.","category":"false friend","reviewed":false},
+  {"id":"T05","language":"ms","source":"Budak itu sedang bermain.","context":"A Malaysian describing a playground","reference":"That child is playing.","category":"false friend","reviewed":false},
+  {"id":"T06","language":"id","source":"Budak itu harus dibebaskan.","context":"An Indonesian discussing slavery in a history lesson","reference":"That slave must be freed.","category":"false friend","reviewed":false},
+  {"id":"T07","language":"ms","source":"Saya nak pergi tandas.","context":"Casual Malaysian conversation","reference":"I want to go to the toilet.","category":"colloquial","reviewed":false},
+  {"id":"T08","language":"id","source":"Aku mau ke kamar kecil.","context":"Informal Indonesian conversation","reference":"I want to go to the restroom.","category":"colloquial","reviewed":false},
+  {"id":"T09","language":"ms","source":"Boleh saya masuk?","context":"A Malaysian asking for permission","reference":"May I come in?","category":"shared sentence","reviewed":false},
+  {"id":"T10","language":"id","source":"Boleh saya masuk?","context":"An Indonesian asking for permission","reference":"May I come in?","category":"shared sentence","reviewed":false},
+  {"id":"T11","language":"ms","source":"Dia tak datang semalam.","context":"Malaysian colloquial conversation","reference":"He or she didn't come yesterday.","category":"colloquial","reviewed":false},
+  {"id":"T12","language":"id","source":"Dia nggak datang kemarin.","context":"Indonesian colloquial conversation","reference":"He or she didn't come yesterday.","category":"colloquial","reviewed":false}
+]
